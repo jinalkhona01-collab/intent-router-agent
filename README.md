@@ -4,6 +4,9 @@ An AI-powered customer support agent built with **Google ADK** and **Gemini 2.5 
 
 The agent reads a customer's natural language message, classifies the intent behind it, and routes it to the correct fixed support response — instantly, with zero hallucination risk.
 
+
+![intent_agent_route](https://github.com/user-attachments/assets/50a5872e-e082-4cd5-8f3c-9f892834ad43)
+
 ---
 
 ## 💡 What it does
